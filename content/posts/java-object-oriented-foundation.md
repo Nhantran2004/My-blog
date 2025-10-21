@@ -7,7 +7,7 @@ date: 2025-10-15
 tags: ["Java", "OOP", "Backend", "Doanh nghiệp"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-oop.jpg"
+cover: "images/posts/java.jpg"
 ---
 
 

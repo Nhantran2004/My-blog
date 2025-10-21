@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "JavaScript", "So sánh", "Lập trình"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-#cover: "images/posts/java-vs-javascript.jpg"
+cover: "images/posts/java-and-javascript.jpg"
 ---
 
 

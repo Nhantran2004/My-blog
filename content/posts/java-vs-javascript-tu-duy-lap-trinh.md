@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "JavaScript", "OOP", "Functional Programming"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-js-thinking.jpg"
+cover: "images/posts/oops.jpg"
 ---
 
 

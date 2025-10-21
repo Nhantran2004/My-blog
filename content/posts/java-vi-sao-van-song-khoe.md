@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "Backend", "Công nghệ", "Doanh nghiệp"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-25-nam.jpg"
+cover: "images/posts/25 năm.jpg"
 ---
 
 

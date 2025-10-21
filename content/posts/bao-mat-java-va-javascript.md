@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "JavaScript", "Bảo mật", "An toàn thông tin"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-js-security.jpg"
+cover: "images/posts/java-js-security.jpg"
 ---
 
 

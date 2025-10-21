@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "JavaScript", "Fullstack", "Tương lai"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-js-future.jpg"
+cover: "images/posts/java-js-future.jpg"
 ---
 
 

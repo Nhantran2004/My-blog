@@ -7,7 +7,7 @@ draft: false
 tags: ["JavaScript", "Web", "Frontend", "Fullstack"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/javascript-web.jpg"
+cover: "images/posts/JavaScript.png"
 ---
 
 

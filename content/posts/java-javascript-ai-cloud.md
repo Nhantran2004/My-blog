@@ -7,7 +7,7 @@ draft: false
 tags: ["Java", "JavaScript", "AI", "Cloud", "Công nghệ"]
 categories: ["Bài viết"]
 author: "Trần Quốc Thành Nhân"
-# cover: "images/posts/java-js-ai-cloud.jpg"
+cover: "images/posts/java-js-ai-cloud.jpg"
 ---
 
 
