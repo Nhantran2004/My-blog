@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "vi-vn"
+title = "Trần Quốc Thành Nhân — Portfolio"
+# Optional: make this a single-page site
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
+[params]
+  customCSS = ["css/custom.css"]
+

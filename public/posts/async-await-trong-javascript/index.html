@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bài 5: Async/Await trong JavaScript – Khi bất đồng bộ trở nên dễ hiểu · Trần Quốc Thành Nhân — Portfolio</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    
+<article class="section">
+  <div class="container">
+    <h1>Bài 5: Async/Await trong JavaScript – Khi bất đồng bộ trở nên dễ hiểu</h1>
+    <div class="meta">15/10/2025 · 1 phút đọc</div>
+
+    
+
+    <div class="content">
+      <p>⚙️ <strong>Async/Await trong JavaScript – Khi bất đồng bộ trở nên dễ hiểu</strong></p>
+<p>JS là ngôn ngữ đơn luồng nhưng vẫn xử lý song song bằng bất đồng bộ.</p>
+<h3 id="-callback-hell">🔹 Callback hell</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-js" data-lang="js"><span style="display:flex;"><span><span style="color:#a6e22e">getData</span>(<span style="color:#a6e22e">url</span>, (<span style="color:#a6e22e">r</span>) =&gt; <span style="color:#a6e22e">parseData</span>(<span style="color:#a6e22e">r</span>, (<span style="color:#a6e22e">d</span>) =&gt; <span style="color:#a6e22e">display</span>(<span style="color:#a6e22e">d</span>)));
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">getData</span>(<span style="color:#a6e22e">url</span>)
+</span></span><span style="display:flex;"><span>  .<span style="color:#a6e22e">then</span>(<span style="color:#a6e22e">parseData</span>)
+</span></span><span style="display:flex;"><span>  .<span style="color:#a6e22e">then</span>(<span style="color:#a6e22e">display</span>)
+</span></span><span style="display:flex;"><span>  .<span style="color:#66d9ef">catch</span>(<span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">error</span>);
+</span></span></code></pre></div>
+    </div>
+  </div>
+</article>
+
+    <script src="/js/script.js"></script>
+  </body>
+</html>

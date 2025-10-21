@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <h2>{{ .Title }}</h2>
+     <a href="/" class="back-home">← Quay lại trang chính</a>
+     
+    <div class="posts-list">
+  {{ range (.Paginate (.Pages.ByDate)).Pages }}
+  <article class="post-card">
+    {{ with .Params.cover }}
+      <a class="post-thumb" href="{{ $.RelPermalink }}">
+        <img class="post-cover" src="{{ . | relURL }}" alt="">
+      </a>
+    {{ end }}
+
+    <div class="post-body">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <div class="meta">{{ .Date.Format "02/01/2006" }} · {{ .ReadingTime }} phút đọc</div>
+      <p>{{ .Summary }}</p>
+      <a class="readmore" href="{{ .RelPermalink }}">Đọc tiếp →</a>
+    </div>
+  </article>
+  <hr class="post-sep">
+  {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+
+  </div>
+</section>
+{{ end }}
