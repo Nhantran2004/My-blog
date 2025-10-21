@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html lang="vi">
   <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ if .Title }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+
+    <!-- Icons (CDN giữ nguyên) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+    <!-- CSS chính trong static/css/style.css -->
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+
+    <!-- Nạp thêm CSS từ config.toml: [params] customCSS = ["css/custom.css", ...] -->
+    {{ with .Site.Params.customCSS }}
+      {{ range . }}
+        <link rel="stylesheet" href="{{ . | relURL }}" />
+      {{ end }}
+    {{ end }}
   </head>
   <body>
     {{ block "main" . }}{{ end }}
-    <script src="/js/script.js"></script>
+
+    <!-- JS chính trong static/js/script.js -->
+    <script src="{{ "js/script.js" | relURL }}"></script>
   </body>
 </html>

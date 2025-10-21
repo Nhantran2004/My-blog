@@ -11,7 +11,7 @@ author: "Trần Quốc Thành Nhân"
 ---
 
 
-cover: "images/posts/java-js-security.jpg"
+
 Cả **Java** và **JavaScript** đều là những ngôn ngữ mạnh mẽ, phổ biến nhất thế giới.  
 Tuy nhiên, khi nói đến **bảo mật**, chúng lại theo đuổi **hai triết lý hoàn toàn khác nhau**.  
 Một bên là “bức tường thép” trong doanh nghiệp, bên kia là “người mở cổng” cho mọi trải nghiệm người dùng.

@@ -1,9 +1,12 @@
-baseURL = "/"
+baseURL = "https://Nhantran2004.github.io/My-blog/"
+publishDir = "docs"
 languageCode = "vi-vn"
 title = "Trần Quốc Thành Nhân — Portfolio"
-publishDir = "docs"           
-# Optional: make this a single-page site
-disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
-[params]
-  customCSS = ["css/custom.css"]
 
+# (Tùy chọn) giúp link tương đối an toàn hơn
+relativeURLs = true
+canonifyURLs = true
+
+[params]
+  # Nếu bạn để file ở static/css/custom.css (khuyên dùng)
+  customCSS = ["css/custom.css"]

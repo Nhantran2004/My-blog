@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OOP on Trần Quốc Thành Nhân — Portfolio</title>
+    <link>http://localhost:1313/My-blog/tags/oop/</link>
+    <description>Recent content in OOP on Trần Quốc Thành Nhân — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-blog/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 2: Java – Cỗ máy hướng đối tượng vững chắc nhất hành tinh</title>
+      <link>http://localhost:1313/My-blog/posts/java-object-oriented-foundation/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-object-oriented-foundation/</guid>
+      <description>Java là nền tảng của lập trình hướng đối tượng (OOP) và là ngôn ngữ trụ cột trong thế giới doanh nghiệp. Bài viết phân tích vì sao Java vẫn giữ vững vị thế sau hơn 25 năm.</description>
+    </item>
+    <item>
+      <title>Bài 5: Java – Tư duy hướng đối tượng | JavaScript – Tư duy hướng hàm</title>
+      <link>http://localhost:1313/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</guid>
+      <description>Java và JavaScript khác nhau không chỉ ở cú pháp mà còn ở tư duy lập trình. Một bên hướng đối tượng chặt chẽ, một bên linh hoạt theo hướng hàm. Bài viết phân tích sự khác biệt tư duy giữa hai thế giới này.</description>
+    </item>
+  </channel>
+</rss>
