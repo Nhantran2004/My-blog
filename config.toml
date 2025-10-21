@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "vi-vn"
 title = "Trần Quốc Thành Nhân — Portfolio"
+publishDir = "docs"           
 # Optional: make this a single-page site
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
 [params]

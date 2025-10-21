@@ -1,0 +1,18 @@
+/* Tăng cỡ chữ và đậm hơn cho nút quay lại */
+a[href*="Quay lại"],
+.back-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 1.9rem !important;   /* ép kích thước to hơn */
+  font-weight: 700 !important;    /* in đậm hơn */
+  color: #5b21b6 !important;      /* màu tím */
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a[href*="Quay lại"]:hover,
+.back-link:hover {
+  color: #312e81 !important;
+  text-decoration: underline;
+  transform: translateX(-3px);
+}
