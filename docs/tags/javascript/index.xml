@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Trần Quốc Thành Nhân — Portfolio</title><link>https://Nhantran2004.github.io/My-blog/tags/javascript/</link><description>Recent content in JavaScript on Trần Quốc Thành Nhân — Portfolio</description><generator>Hugo</generator><language>vi-vn</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Nhantran2004.github.io/My-blog/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Bài 1: Java vs JavaScript – Tưởng giống mà khác xa nhau hoàn toàn</title><link>https://Nhantran2004.github.io/My-blog/posts/java-vs-javascript/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-vs-javascript/</guid><description>Java và JavaScript trùng tên nhưng khác hẳn về triết lý, mục tiêu thiết kế và môi trường chạy. Bài viết giải thích sự khác biệt cốt lõi để bạn chọn đúng hướng học.</description></item><item><title>Bài 3: JavaScript – Ngôn ngữ làm nên linh hồn của Web hiện đại</title><link>https://Nhantran2004.github.io/My-blog/posts/javascript-web-language/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/javascript-web-language/</guid><description>JavaScript là trái tim của web hiện đại. Bài viết giải thích cách JavaScript biến Internet trở thành không gian tương tác và sáng tạo nhất trong lịch sử lập trình.</description></item><item><title>Bài 5: Java – Tư duy hướng đối tượng | JavaScript – Tư duy hướng hàm</title><link>https://Nhantran2004.github.io/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</guid><description>Java và JavaScript khác nhau không chỉ ở cú pháp mà còn ở tư duy lập trình. Một bên hướng đối tượng chặt chẽ, một bên linh hoạt theo hướng hàm. Bài viết phân tích sự khác biệt tư duy giữa hai thế giới này.</description></item><item><title>Bài 6: Bảo mật – Ưu thế của Java và thách thức của JavaScript</title><link>https://Nhantran2004.github.io/My-blog/posts/bao-mat-java-va-javascript/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/bao-mat-java-va-javascript/</guid><description>Java nổi tiếng với tính bảo mật trong môi trường doanh nghiệp, trong khi JavaScript linh hoạt nhưng dễ bị tấn công trên trình duyệt. Bài viết phân tích sự khác biệt trong chiến lược bảo mật của hai ngôn ngữ.</description></item><item><title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title><link>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</guid><description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description></item><item><title>Bài 8: Tương lai của Java &amp; JavaScript – Cộng sinh thay vì cạnh tranh</title><link>https://Nhantran2004.github.io/My-blog/posts/tuong-lai-java-va-javascript/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/tuong-lai-java-va-javascript/</guid><description>Java và JavaScript từng bị xem là đối thủ, nhưng thực tế lại đang cùng nhau phát triển để hoàn thiện hệ sinh thái lập trình. Bài viết phân tích cách hai ngôn ngữ này cộng sinh trong tương lai công nghệ.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Trần Quốc Thành Nhân — Portfolio</title>
+    <link>http://localhost:1313/My-blog/tags/javascript/</link>
+    <description>Recent content in JavaScript on Trần Quốc Thành Nhân — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-blog/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 1: Java vs JavaScript – Tưởng giống mà khác xa nhau hoàn toàn</title>
+      <link>http://localhost:1313/My-blog/posts/java-vs-javascript/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-vs-javascript/</guid>
+      <description>Java và JavaScript trùng tên nhưng khác hẳn về triết lý, mục tiêu thiết kế và môi trường chạy. Bài viết giải thích sự khác biệt cốt lõi để bạn chọn đúng hướng học.</description>
+    </item>
+    <item>
+      <title>Bài 3: JavaScript – Ngôn ngữ làm nên linh hồn của Web hiện đại</title>
+      <link>http://localhost:1313/My-blog/posts/javascript-web-language/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/javascript-web-language/</guid>
+      <description>JavaScript là trái tim của web hiện đại. Bài viết giải thích cách JavaScript biến Internet trở thành không gian tương tác và sáng tạo nhất trong lịch sử lập trình.</description>
+    </item>
+    <item>
+      <title>Bài 5: Java – Tư duy hướng đối tượng | JavaScript – Tư duy hướng hàm</title>
+      <link>http://localhost:1313/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-vs-javascript-tu-duy-lap-trinh/</guid>
+      <description>Java và JavaScript khác nhau không chỉ ở cú pháp mà còn ở tư duy lập trình. Một bên hướng đối tượng chặt chẽ, một bên linh hoạt theo hướng hàm. Bài viết phân tích sự khác biệt tư duy giữa hai thế giới này.</description>
+    </item>
+    <item>
+      <title>Bài 6: Bảo mật – Ưu thế của Java và thách thức của JavaScript</title>
+      <link>http://localhost:1313/My-blog/posts/bao-mat-java-va-javascript/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/bao-mat-java-va-javascript/</guid>
+      <description>Java nổi tiếng với tính bảo mật trong môi trường doanh nghiệp, trong khi JavaScript linh hoạt nhưng dễ bị tấn công trên trình duyệt. Bài viết phân tích sự khác biệt trong chiến lược bảo mật của hai ngôn ngữ.</description>
+    </item>
+    <item>
+      <title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title>
+      <link>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</guid>
+      <description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description>
+    </item>
+    <item>
+      <title>Bài 8: Tương lai của Java &amp; JavaScript – Cộng sinh thay vì cạnh tranh</title>
+      <link>http://localhost:1313/My-blog/posts/tuong-lai-java-va-javascript/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/tuong-lai-java-va-javascript/</guid>
+      <description>Java và JavaScript từng bị xem là đối thủ, nhưng thực tế lại đang cùng nhau phát triển để hoàn thiện hệ sinh thái lập trình. Bài viết phân tích cách hai ngôn ngữ này cộng sinh trong tương lai công nghệ.</description>
+    </item>
+  </channel>
+</rss>

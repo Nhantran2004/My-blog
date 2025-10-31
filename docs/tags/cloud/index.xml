@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Trần Quốc Thành Nhân — Portfolio</title><link>https://Nhantran2004.github.io/My-blog/tags/cloud/</link><description>Recent content in Cloud on Trần Quốc Thành Nhân — Portfolio</description><generator>Hugo</generator><language>vi-vn</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Nhantran2004.github.io/My-blog/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title><link>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</guid><description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Trần Quốc Thành Nhân — Portfolio</title>
+    <link>http://localhost:1313/My-blog/tags/cloud/</link>
+    <description>Recent content in Cloud on Trần Quốc Thành Nhân — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-blog/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title>
+      <link>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</guid>
+      <description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description>
+    </item>
+  </channel>
+</rss>

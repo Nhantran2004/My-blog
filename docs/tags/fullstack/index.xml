@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fullstack on Trần Quốc Thành Nhân — Portfolio</title><link>https://Nhantran2004.github.io/My-blog/tags/fullstack/</link><description>Recent content in Fullstack on Trần Quốc Thành Nhân — Portfolio</description><generator>Hugo</generator><language>vi-vn</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Nhantran2004.github.io/My-blog/tags/fullstack/index.xml" rel="self" type="application/rss+xml"/><item><title>Bài 3: JavaScript – Ngôn ngữ làm nên linh hồn của Web hiện đại</title><link>https://Nhantran2004.github.io/My-blog/posts/javascript-web-language/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/javascript-web-language/</guid><description>JavaScript là trái tim của web hiện đại. Bài viết giải thích cách JavaScript biến Internet trở thành không gian tương tác và sáng tạo nhất trong lịch sử lập trình.</description></item><item><title>Bài 8: Tương lai của Java &amp; JavaScript – Cộng sinh thay vì cạnh tranh</title><link>https://Nhantran2004.github.io/My-blog/posts/tuong-lai-java-va-javascript/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/tuong-lai-java-va-javascript/</guid><description>Java và JavaScript từng bị xem là đối thủ, nhưng thực tế lại đang cùng nhau phát triển để hoàn thiện hệ sinh thái lập trình. Bài viết phân tích cách hai ngôn ngữ này cộng sinh trong tương lai công nghệ.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fullstack on Trần Quốc Thành Nhân — Portfolio</title>
+    <link>http://localhost:1313/My-blog/tags/fullstack/</link>
+    <description>Recent content in Fullstack on Trần Quốc Thành Nhân — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-blog/tags/fullstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 3: JavaScript – Ngôn ngữ làm nên linh hồn của Web hiện đại</title>
+      <link>http://localhost:1313/My-blog/posts/javascript-web-language/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/javascript-web-language/</guid>
+      <description>JavaScript là trái tim của web hiện đại. Bài viết giải thích cách JavaScript biến Internet trở thành không gian tương tác và sáng tạo nhất trong lịch sử lập trình.</description>
+    </item>
+    <item>
+      <title>Bài 8: Tương lai của Java &amp; JavaScript – Cộng sinh thay vì cạnh tranh</title>
+      <link>http://localhost:1313/My-blog/posts/tuong-lai-java-va-javascript/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/tuong-lai-java-va-javascript/</guid>
+      <description>Java và JavaScript từng bị xem là đối thủ, nhưng thực tế lại đang cùng nhau phát triển để hoàn thiện hệ sinh thái lập trình. Bài viết phân tích cách hai ngôn ngữ này cộng sinh trong tương lai công nghệ.</description>
+    </item>
+  </channel>
+</rss>

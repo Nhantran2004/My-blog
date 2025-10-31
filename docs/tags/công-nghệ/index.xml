@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Công Nghệ on Trần Quốc Thành Nhân — Portfolio</title><link>https://Nhantran2004.github.io/My-blog/tags/c%C3%B4ng-ngh%E1%BB%87/</link><description>Recent content in Công Nghệ on Trần Quốc Thành Nhân — Portfolio</description><generator>Hugo</generator><language>vi-vn</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Nhantran2004.github.io/My-blog/tags/c%C3%B4ng-ngh%E1%BB%87/index.xml" rel="self" type="application/rss+xml"/><item><title>Bài 4: Vì sao Java vẫn sống khỏe sau hơn 25 năm</title><link>https://Nhantran2004.github.io/My-blog/posts/java-vi-sao-van-song-khoe/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-vi-sao-van-song-khoe/</guid><description>Java là ngôn ngữ lập trình tồn tại bền vững nhất trong lịch sử hiện đại. Bài viết lý giải vì sao Java vẫn được tin dùng trong doanh nghiệp, ngân hàng và hệ thống lớn.</description></item><item><title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title><link>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://Nhantran2004.github.io/My-blog/posts/java-javascript-ai-cloud/</guid><description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Công Nghệ on Trần Quốc Thành Nhân — Portfolio</title>
+    <link>http://localhost:1313/My-blog/tags/c%C3%B4ng-ngh%E1%BB%87/</link>
+    <description>Recent content in Công Nghệ on Trần Quốc Thành Nhân — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/My-blog/tags/c%C3%B4ng-ngh%E1%BB%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 4: Vì sao Java vẫn sống khỏe sau hơn 25 năm</title>
+      <link>http://localhost:1313/My-blog/posts/java-vi-sao-van-song-khoe/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-vi-sao-van-song-khoe/</guid>
+      <description>Java là ngôn ngữ lập trình tồn tại bền vững nhất trong lịch sử hiện đại. Bài viết lý giải vì sao Java vẫn được tin dùng trong doanh nghiệp, ngân hàng và hệ thống lớn.</description>
+    </item>
+    <item>
+      <title>Bài 7: Java và JavaScript trong kỷ nguyên AI &amp; Cloud</title>
+      <link>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/My-blog/posts/java-javascript-ai-cloud/</guid>
+      <description>Java và JavaScript đang cùng thích nghi mạnh mẽ trong thời đại trí tuệ nhân tạo và điện toán đám mây. Bài viết chỉ ra cách cả hai ngôn ngữ tiến hóa để phù hợp với công nghệ hiện đại.</description>
+    </item>
+  </channel>
+</rss>
